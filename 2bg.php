@@ -2,14 +2,10 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" type="image/x-icon" href="favicon1.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon1.ico" />
 <title>Max's Homemade Cupcakes</title>
 <link rel="stylesheet" type="text/css" href="2bgS.css">
-<script>
 
-
-
-</script>
 </head>
 <body>
 
@@ -21,17 +17,17 @@
 <div id = "navbar-flex-conteiner" class="box box1">
 
 <ul class = "nav">
-<li><a href="#home"><span class="navTag">Home</span><img src="homeIc.png" alt="home" class="imgNav"></a></li>
-<li><a href ="#about"><span class="navTag">About us</span><img src="aboutIc.png" alt="about" class="imgNav"></a></li>
-<li><a href="#menu"><span class="navTag">Menu</span><img src="menueIc.png" alt="menu" class="imgNav"></a></li>
-<li><a href="#T-shirts"><span class="navTag">T-shirts</span><img src="tshirtIc.png" alt="Tshits" class="imgNav"></a></li>
-<li><a href="#contact"><span class="navTag">Contac us</span><img src="contactIc.png" alt="contact us" class="imgNav"></a></li>
+<li><a href="#home"><span class="navTag">Home</span><img src="homeMenu/homeIc.png" alt="home" class="imgNav"></a></li>
+<li><a href ="#about"><span class="navTag">About us</span><img src="homeMenu/aboutIc.png" alt="about" class="imgNav"></a></li>
+<li><a href="#menu"><span class="navTag">Menu</span><img src="homeMenu/menueIc.png" alt="menu" class="imgNav"></a></li>
+<li><a href="#T-shirts"><span class="navTag">T-shirts</span><img src="homeMenu/tshirtIc.png" alt="Tshits" class="imgNav"></a></li>
+<li><a href="#contact"><span class="navTag">Contac us</span><img src="homeMenu/contactIc.png" alt="contact us" class="imgNav"></a></li>
 </ul>
 
 
 </div>
 
-<div class="box box2"><img class="header" src="2bg.jpg" alt="cupcakes"style="width: 100%; height:100%"/></div>
+<div class="box box2"><img class="header" src="img/2bg.jpg" alt="cupcakes"style="width: 100%; height:100%"/></div>
 
 <div class="box box3" id="home"><br>
  <br><br><h2>Our Story
@@ -96,9 +92,9 @@ Caroline was born to a wealthy family and attended the best private schools in t
 
 <div class="boxT boxT1">
 <div class="dropdown-img-1">
-<img class="dropdown-img-1" src="t-shirt1.png" alt="t-shirt" width="200" height="200">
+<img class="dropdown-img-1" src="img/t-shirt1.png" alt="t-shirt" width="200" height="200">
 <div class="dropdown-content">
-<img src="t-shirt1.png" alt="t-shirt" width="260" height="260">
+<img src="img/t-shirt1.png" alt="t-shirt" width="260" height="260">
 </div>
 </div>
 </div>
@@ -107,9 +103,9 @@ Caroline was born to a wealthy family and attended the best private schools in t
 
 <div class="boxT boxT2">
 <div class="dropdown-img-2">
-<img class="dropdown-img-2" src="t-shirt2.png" alt="t-shirt" width="200" height="200">
+<img class="dropdown-img-2" src="img/t-shirt2.png" alt="t-shirt" width="200" height="200">
 <div class="dropdown-content2">
-<img src="t-shirt2.png" alt="t-shirt" width="260px" height="260">
+<img src="img/t-shirt2.png" alt="t-shirt" width="260px" height="260">
 </div>
 </div>
 </div>
@@ -117,9 +113,9 @@ Caroline was born to a wealthy family and attended the best private schools in t
 
 <div class="boxT boxT3">
 <div class="dropdown-img-3">
-<img class="dropdown-img-3" src="t-shirt3.png" alt="t-shirt" width="200" height="200">
+<img class="dropdown-img-3" src="img/t-shirt3.png" alt="t-shirt" width="200" height="200">
 <div class="dropdown-content3">
-<img src="t-shirt3.png" alt="t-shirt" width="260" height="260">
+<img src="img/t-shirt3.png" alt="t-shirt" width="260" height="260">
 </div>
 </div>
 </div>

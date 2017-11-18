@@ -53,13 +53,13 @@ justify-items:center;
 
 body{
 
-background-image: url("superthumb1.png");
+background-image: url("img/superthumb1.png");
 font-family:cursive;
 
 
  }
  #wrapper{			
-background-image: url("superthumb1.png"); 
+background-image: url("img/superthumb1.png"); 
                                             height: 100%; min-height: 100%;
 min-width:150px;
 max-width:899.9px;
@@ -71,7 +71,7 @@ box-sizing:border-box;
 
 #flex-conteiner{
 box-sizing:border-box;
-background-image: url("wallp1.png"); 
+background-image: url("img/wallp1.png"); 
 background-repeat: no-repeat;
 background-size:cover;
 
@@ -268,7 +268,7 @@ justify-items:center;
 #wrapper{
 	
 		
-background-image: url("superthumb1.png"); 
+background-image: url("img/superthumb1.png"); 
                                             height: 100%; min-height: 100%;
 min-width:600px;
 max-width:2200px;
@@ -281,7 +281,7 @@ box-sizing:border-box;
 	box-sizing:border-box;
 width:78%;
 
-  background-image: url("wallp1.png"); 
+  background-image: url("img/wallp1.png"); 
 background-repeat: no-repeat;
 background-size:cover;
   border: 6px solid #d9b945;
